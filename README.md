@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, DSA**
 
-- 💬 Ask me about **Java, Spring MVC, Web Dev**
+- 💬 Ask me about **Java, Spring MVC,Rest API, Angular, Web Dev**
 
 - 📫 How to reach me **sharmaudit124@gmail.com**
 
