@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Java, Spring MVC,Rest API, Angular, ReatJs, Web Dev**
+- 💬 Ask me about **Java, Spring Boot,Rest API, Angular, ReatJs, Web Dev**
 
 - 📫 How to reach me **sharmaudit124@gmail.com**
 
