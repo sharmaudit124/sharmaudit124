@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sharmaudit124" target="blank"><img src="https://img.shields.io/twitter/follow/sharmaudit124?logo=twitter&style=for-the-badge" alt="sharmaudit124" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **SprinBoot**
 
-- 💬 Ask me about **Java, Spring Boot,Rest API, Angular, ReatJs, Web Dev**
+- 💬 Ask me about **Java, Spring Boot,Rest API, Angular, ReactJs, Web Dev**
 
 - 📫 How to reach me **sharmaudit124@gmail.com**
 
