@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sharmaudit124" target="blank"><img src="https://img.shields.io/twitter/follow/sharmaudit124?logo=twitter&style=for-the-badge" alt="sharmaudit124" /></a> </p>
 
-- 🌱 I’m currently learning **SprinBoot**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **Java, Spring Boot,Rest API, Angular, ReactJs, Web Dev**
 
