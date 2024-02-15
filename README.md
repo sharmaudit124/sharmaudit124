@@ -17,6 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Singleton Design Pattern in Java: 3 Techniques Explained](https://medium.com/@sharmaudit124/creating-singleton-design-pattern-in-java-3-techniques-explained-2c969e48d10f?source=rss-40f121922d63------2)
+- [Tricky Java Interview Questions on Static keyword](https://medium.com/@sharmaudit124/tricky-java-interview-questions-on-static-keyword-34e8eb2cef5e?source=rss-40f121922d63------2)
+- [Getting Started with Spring Cloud Config Server using JDBC](https://medium.com/@sharmaudit124/getting-started-with-spring-cloud-config-server-using-jdbc-1aee73e4089c?source=rss-40f121922d63------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
