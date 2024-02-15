@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Udit Sharma</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center"><a href="https://udit-sharma-portfolio.vercel.app/" target="_blank">A passionate Full Stack Developer from India</a></h3>
 
 <img align="right" alt="Let's Code" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<p align="left"> <a href="https://twitter.com/sharmaudit124" target="blank"><img src="https://img.shields.io/twitter/follow/sharmaudit124?logo=twitter&style=for-the-badge" alt="sharmaudit124" /></a> </p>
+- 🌱 I’m currently learning **NextJs**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 💬 Ask me about **Java, Spring Boot, Rest APIs, Angular, React, Web Dev, AWS, Docker, Microservices, Node js**
 
-- 💬 Ask me about **Java, Spring Boot,Rest API, Angular, ReactJs, Web Dev**
-
-- 📫 How to reach me **sharmaudit124@gmail.com**
+- 📫 How to reach me **udit.sde@gmail.com**
 
 - ⚡ Fun fact **I believe I am an excellent cook.**
 
@@ -18,9 +16,6 @@
 <a href="https://twitter.com/sharmaudit124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharmaudit124" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sharmaudit124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharmaudit124" height="30" width="40" /></a>
 <a href="https://instagram.com/sharmaudit124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharmaudit124" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/sharmaudit124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharmaudit124" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/sharmaudit124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmaudit124" height="30" width="40" /></a> -->
-<!-- <a href="https://auth.geeksforgeeks.org/user/sharmaudit124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmaudit124" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
