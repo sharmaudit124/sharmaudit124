@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udit Sharma</h1>
-<h3 align="center"><a href="https://udit-sharma-portfolio.vercel.app/" target="_blank">A passionate Full Stack Developer from India</a></h3>
+<h3 align="center"><a href="https://udit-sharma-portfolio.vercel.app/" target="blank">A passionate Full Stack Developer from India</a></h3>
 
 <img align="right" alt="Let's Code" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
